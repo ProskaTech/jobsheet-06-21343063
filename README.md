@@ -1,5 +1,5 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Nurul Husna-21343063
+1. program pertama menjelaskan tentang percabangan if. jika kondisi dari percabangan dipenuhi, maka program akan melakukan serangkaian aksi. sebaliknya jika kondisi tidak dipenuhi, maka program tidak akan melakukan apa-apa
+2. percabangan if-else. jika kondisi dari percabangan dipenuhi, maka program akan melakukan serangkaian aksi pertama. sebaliknya jika kondisi tidak dipenuhi, maka program akan melakukan serangkaian aksi kedua.
+3. program 3 merupakan program dengan percabangan if-else-if. yaitu, ada banyak percabangan dan kondisi yang digunakan dalam program
+4. program 4 menggunakan percabangan switch-case. switch case lebih bagus digunakan pada percabangan yang banyak dengan kondisi yang tidak terlalu banyak.
